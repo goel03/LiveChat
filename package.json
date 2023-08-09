@@ -8,7 +8,7 @@
     "start": "node index.js",
     "server":"nodemon index.js",
     "client":"node start --prefix./live-chat-client",
-    "dev":"concurrently\"npm start"\"npm run client\""
+    "dev":"concurrently\"npm start\"\"npm run live-chat-client \""
   },
   "author": "PrepBytes",
   "license": "ISC",
