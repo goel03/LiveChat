@@ -10,7 +10,7 @@
     "client":"node start --prefix./live-chat-client",
     "dev":"concurrently\"npm start\"\"npm run live-chat-client \""
   },
-  "author": "PrepBytes",
+  "author": "Prachi",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
